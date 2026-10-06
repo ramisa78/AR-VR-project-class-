@@ -1,1 +1,1 @@
-# AR-VR-project-class-
+# AR-VR-project-class
